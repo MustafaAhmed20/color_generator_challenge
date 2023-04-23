@@ -3,13 +3,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Main());
 }
 
 /// app main entry
-class MyApp extends StatelessWidget {
+class Main extends StatelessWidget {
   /// app main entry
-  const MyApp({super.key});
+  const Main({super.key});
 
   // This widget is the root of your application.
   @override
